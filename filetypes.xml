@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="test" type="C++" />
       <mapping pattern="hang_tux" type="PLAIN_TEXT" />
+      <mapping pattern="makefile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
